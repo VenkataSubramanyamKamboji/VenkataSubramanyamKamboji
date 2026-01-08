@@ -123,7 +123,7 @@ Delivered a simple, accessible chatbot that provides quick and accurate informat
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=VenkataSubramanyamKamboji&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
@@ -139,7 +139,7 @@ Delivered a simple, accessible chatbot that provides quick and accurate informat
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSubramanyamKamboji&layout=compact&theme=tokyonight&hide_border=true"
     width="40%"
   />
-</p>
+</p> -->
 
 
 
