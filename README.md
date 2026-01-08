@@ -121,9 +121,10 @@ Delivered a simple, accessible chatbot that provides quick and accurate informat
 
 ---
 
-## 📈 GitHub Stats
 
-<!-- <p align="center">
+
+<!-- ## 📈 GitHub Stats
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=VenkataSubramanyamKamboji&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
