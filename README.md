@@ -16,7 +16,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year student at **RGM College of Engineering and Technology**, pursuing **B.Tech in Computer Science and Engineering (Data Science)**  
+- 🎓 Final-year student at **RGM College of Engineering and Technology**, pursuing **B.Tech in Computer Science and Engineering (Data Science)**
+- 🎓 Currently working Student Research intern at CDAC- Hyderabad 
 - 💡 Passionate about **Full-Stack Web Development** & **Machine Learning**, focused on real-world AI solutions  
 - 🌱 Currently exploring **React.js**, **Node.js**, and strengthening **ML & System Design** fundamentals  
 - 🤝 Actively seeking **internship opportunities** and **open-source collaborations**  
