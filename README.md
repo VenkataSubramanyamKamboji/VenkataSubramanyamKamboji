@@ -21,7 +21,7 @@
 - 💡 Passionate about **Full-Stack Web Development** & **Machine Learning**, focused on real-world AI solutions  
 - 🌱 Currently exploring **React.js**, **Node.js**, and strengthening **ML & System Design** fundamentals  
 - 🤝 Actively seeking **internship opportunities** and **open-source collaborations**  
-- 📌Portfolio: [Subramanyam's Portfolio]((https://subramanyamkamboji.lovable.app/?utm_source=lovable))
+- 📌Portfolio: [Subramanyam's Portfolio](https://subramanyamkamboji.lovable.app/?utm_source=lovable)
 - 📫 Email: **subramanyamkamboji@gmail.com**
 
 ---
