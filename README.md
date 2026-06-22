@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science and Engineering (Data Science) Graduate from Rajeev Gandhi Memorial College of Engineering and Technology (RGM CET), Nandyal, India.**
+- 🎓 Computer Science and Engineering (Data Science) Graduate from Rajeev Gandhi Memorial College of Engineering and Technology (RGM CET), Nandyal, India.
 - 🎓 Currently working as  Student Research intern at CDAC- Hyderabad 
 - 💡 Passionate about **Full-Stack Web Development** & **Machine Learning**, focused on real-world AI solutions  
 - 🌱 Currently exploring **React.js**, **Node.js**, and strengthening **ML & System Design** fundamentals  
